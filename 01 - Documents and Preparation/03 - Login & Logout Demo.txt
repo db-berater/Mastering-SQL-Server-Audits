@@ -1,0 +1,5 @@
+/* Connection with wrong password */
+sqlcmd -SSQLServer -U"user01" -Ptest$123
+
+/* Connection with correct password */
+sqlcmd -SSQLServer -U"user01" -Pabc$123
