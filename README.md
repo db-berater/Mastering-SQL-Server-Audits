@@ -87,19 +87,6 @@ This section is ideal for performance‑conscious audit configurations.
 
 ---
 
-## 🧩 Solution Files (`.vs` folder)
-The `.vs` folder contains Visual Studio solution metadata.  
-It is not required for running demos but helps when opening the repository as a SQL Server project in Visual Studio.
-
----
-
-## 📄 Root Files
-- **README.md** — Project documentation.  
-- **LICENSE** — Repository license.  
-- **.gitignore** — Ignore rules for SQL Server and Visual Studio artifacts.
-
----
-
 ## 🚀 Getting Started
 
 ### **Prerequisites**
